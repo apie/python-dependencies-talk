@@ -1,0 +1,2 @@
+pytest-django==2.8.0
+pytest~=4.6
